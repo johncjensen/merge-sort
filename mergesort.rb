@@ -1,5 +1,3 @@
-require 'benchmark'
-
 def merge_sort(list)
   return list if list.size <= 1
 
@@ -26,6 +24,7 @@ p merge_sort(randomarray)
 
 
 #### Benchmarking tests
+# require 'benchmark'
 
 # slower = Benchmark.realtime do
 # randomarray1 = (0...1000000).sort_by{rand}[0...10]

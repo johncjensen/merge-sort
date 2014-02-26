@@ -5,10 +5,7 @@ Ruby implementation of computer science merge sort algorithm.
 
 ####How to Run
 
-  ruby ms.rb
+    ruby mergesort.rb
 #####[MIT License](http://johnjensen.mit-license.org)
 
 ![alt text](http://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif)
-
-
-
